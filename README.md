@@ -24,4 +24,4 @@ These last scripts load other data:
 
 D9 (matrix containing the euclidean distance among cells);
 cella_temp (the id of the cell);
-fisheries_GSA_9 (calibrated coefficiencies related to fishery in the GSA 9 by metier); to be uploaded
+fisheries_GSA_9 (calibrated coefficiencies related to fishery in the GSA 9 by metier)
